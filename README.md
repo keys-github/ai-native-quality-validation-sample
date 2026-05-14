@@ -1,4 +1,4 @@
-# AI-Native Quality Validation Sample with TestMu AI (Formerly LambdaTest)
+# Run AI-Native PR Validation with KaneAI on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -22,15 +22,14 @@ This sample demonstrates AI-native quality validation using KaneAI and the TestM
 
 ### Setup
 
-Fork the repository and configure the GitHub App:
+Clone the repository:
 
 ```bash
-# Fork the repository on GitHub, then clone your fork
-git clone https://github.com/YOUR_USERNAME/ai-native-quality-validation-sample
+git clone https://github.com/LambdaTest/ai-native-quality-validation-sample
 cd ai-native-quality-validation-sample
 ```
 
-Then complete the setup steps:
+Fork it on GitHub, then configure the GitHub App on your fork:
 
 1. Install the [TestMu AI Cloud GitHub App](https://github.com/apps/lambdatest-ai-cloud) on your forked repository.
 2. Add the `.lambdatest/config.yaml` file with your TestMu AI project ID, folder ID, and configuration values.
