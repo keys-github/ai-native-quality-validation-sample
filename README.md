@@ -12,7 +12,7 @@
 This sample demonstrates AI-native quality validation using KaneAI and the TestMu AI Cloud GitHub App. It uses a full-stack Airbnb clone as the test target to showcase autonomous PR validation on TestMu AI.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
-- Follow the documentation on [AI-Native Quality Validation with KaneAI on TestMu AI](https://www.testmuai.com/support/docs/github-app-integration/) (Formerly LambdaTest) for the full setup walkthrough.
+- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 ### Prerequisites
 
